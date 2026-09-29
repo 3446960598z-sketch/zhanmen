@@ -1,0 +1,11 @@
+node_modules/
+.vercel/
+dist/
+artifacts/
+screenshots/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+.DS_Store
