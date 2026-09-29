@@ -3,6 +3,8 @@ node_modules/
 dist/
 artifacts/
 screenshots/
+.grok/
+.node_modules.lock
 **/__pycache__/
 *.pyc
 .env
